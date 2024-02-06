@@ -4,7 +4,8 @@
 
 #
 
-Languages I program in (at least 2 years experience on each):<br />
+![text](https://github.com/Lemoens/Lemoens/assets/159124482/73477bea-784f-43ac-be8a-11bf7bba2977)
+
  <br />
 A.NET (A#/A sharp) <br />
 A-0 System <br />
