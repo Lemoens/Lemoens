@@ -9,7 +9,7 @@
 <br />
 #
 <details>
-  <summary><h3><h3></summary>
+  <summary><h3><summary><h3>
     A.NET (A#/A sharp) <br />
 A-0 System <br />
 A+ (A plus)<br />
