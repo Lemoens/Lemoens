@@ -3,6 +3,7 @@
 ![w0k02ubjriw61 (2)](https://github.com/Lemoens/Lemoens/assets/159124482/045a0dd2-137a-4e13-b1a4-1d0caa50a613)
 
 Languages i program in, (at least 3 years experience on each): <br />
+ <br />
 A.NET (A#/A sharp) <br />
 A-0 System <br />
 A+ (A plus)<br />
@@ -10,103 +11,103 @@ ABAP<br />
 ABC<br />
 ABC ALGOL<br />
 ACC<br />
-Accent (Rational Synergy)
-Ace Distributed Application Specification Language (DASL)
-Action!
-ActionScript
-Actor
-Ada – ISO/IEC 8652
-Adenine (Haystack)
-AdvPL
-Agda
-Agilent VEE (Keysight VEE)
-Agora
-AIMMS
-Aldor
-Alef
-ALF
-ALGOL 58
-ALGOL 60
-ALGOL 68
-ALGOL W
-Alice (Alice ML)
-Alma-0
-AmbientTalk
-Amiga E
-AMPL
-Analitik
-AngelScript
-Apache Pig latin
-Apex (Salesforce.com, Inc)
-APL
-App Inventor for Android's visual block language (MIT App Inventor)
-AppleScript
-APT
-Arc
-ARexx
-Argus
-Assembly language (ASM)
-AutoHotkey
-AutoIt
-AutoLISP / Visual LISP
-Averest
-AWK
-Axum
-Babbage
-Ballerina
-Bash
-BASIC
-Batch file (Windows/MS-DOS)
-bc (basic calculator)
-BCPL
-BeanShell
-BETA
-BLISS
-Blockly
-BlooP
-Boo
-Boomerang
-Bosque
-C – ISO/IEC 9899
-C-- (C minus minus)
-C++ (C plus plus) – ISO/IEC 14882
-C*
-C# (C sharp) – ISO/IEC 23270
-C/AL
-Caché ObjectScript
-C Shell (csh)
-Caml
-Carbon
-Catrobat
-Cayenne (Lennart Augustsson)
-CDuce
-Cecil
-CESIL (Computer Education in Schools Instruction Language)
-Céu
-Ceylon
-CFEngine
-Cg (High-Level Shader/Shading Language [HLSL])
-Ch
-Chapel (Cascade High Productivity Language)
-Charm
-CHILL
-CHIP-8
-ChucK
-Cilk (also Cilk++ and Cilk plus)
-Claire
-Clarion
-Clean
-Clipper
-CLIPS
-CLIST
-Clojure
-CLU
-CMS-2
-COBOL – ISO/IEC 1989
-CobolScript – COBOL Scripting language
-Cobra
-CoffeeScript
-ColdFusion
+Accent (Rational Synergy)<br />
+Ace Distributed Application Specification Language (DASL)<br />
+Action!<br />
+ActionScript<br />
+Actor<br />
+Ada – ISO/IEC 8652<br />
+Adenine (Haystack)<br />
+AdvPL<br />
+Agda<br />
+Agilent VEE (Keysight VEE)<br />
+Agora<br />
+AIMMS<br />
+Aldor<br />
+Alef<br />
+ALF<br />
+ALGOL 58<br />
+ALGOL 60<br />
+ALGOL 68<br />
+ALGOL W<br />
+Alice (Alice ML)<br />
+Alma-0<br />
+AmbientTalk<br />
+Amiga E<br />
+AMPL<br />
+Analitik<br />
+AngelScript<br />
+Apache Pig latin<br />
+Apex (Salesforce.com, Inc)<br />
+APL<br />
+App Inventor for Android's visual block language (MIT App Inventor)<br />
+AppleScript<br />
+APT<br />
+Arc<br />
+ARexx<br />
+Argus<br />
+Assembly language (ASM)<br />
+AutoHotkey<br />
+AutoIt<br />
+AutoLISP / Visual LISP<br />
+Averest<br />
+AWK<br />
+Axum<br />
+Babbage<br />
+Ballerina<br />
+Bash<br />
+BASIC<br />
+Batch file (Windows/MS-DOS)<br />
+bc (basic calculator)<br />
+BCPL<br />
+BeanShell<br />
+BETA<br />
+BLISS<br />
+Blockly<br />
+BlooP<br />
+Boo<br />
+Boomerang<br />
+Bosque<br />
+C – ISO/IEC 9899<br />
+C-- (C minus minus)<br />
+C++ (C plus plus) – ISO/IEC 14882<br />
+C*<br />
+C# (C sharp) – ISO/IEC 23270<br />
+C/AL<br />
+Caché ObjectScript<br />
+C Shell (csh)<br />
+Caml<br />
+Carbon<br />
+Catrobat<br />
+Cayenne (Lennart Augustsson)<br />
+CDuce<br />
+Cecil<br />
+CESIL (Computer Education in Schools Instruction Language)<br />
+Céu<br />
+Ceylon<br />
+CFEngine<br />
+Cg (High-Level Shader/Shading Language [HLSL])<br />
+Ch<br />
+Chapel (Cascade High Productivity Language)<br />
+Charm<br />
+CHILL<br />
+CHIP-8<br />
+ChucK<br />
+Cilk (also Cilk++ and Cilk plus)<br />
+Claire<br />
+Clarion<br />
+Clean<br />
+Clipper<br />
+CLIPS<br />
+CLIST<br />
+Clojure<br />
+CLU<br />
+CMS-2<br />
+COBOL – ISO/IEC 1989<br />
+CobolScript – COBOL Scripting language<br />
+Cobra<br />
+CoffeeScript<br />
+ColdFusion<br />
 COMAL
 COMIT
 Common Intermediate Language (CIL)
