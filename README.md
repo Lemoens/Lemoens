@@ -21,693 +21,691 @@
 <br />
  <h2><h2>
     A.NET (A#/A sharp) <br />
-A-0 System <br />
-A+ (A plus)<br />
-ABAP (only 1.5 years experience)<br />
-ABC<br />
-ABC ALGOL<br />
-ACC<br />
-Accent (Rational Synergy)<br />
-Ace Distributed Application Specification Language (DASL)<br />
-Action!<br />
-ActionScript<br />
-Actor<br />
-Ada – ISO/IEC 8652<br />
-Adenine (Haystack)<br />
-AdvPL<br />
-Agda<br />
-Agilent VEE (Keysight VEE)<br />
-Agora<br />
-AIMMS<br />
-Aldor<br />
-Alef<br />
-ALF<br />
-ALGOL 58<br />
-ALGOL 60<br />
-ALGOL 68<br />
-ALGOL W<br />
-Alice (Alice ML)<br />
-Alma-0<br />
-AmbientTalk<br />
-Amiga E<br />
-AMPL<br />
-Analitik<br />
-AngelScript<br />
-Apache Pig latin<br />
-Apex (Salesforce.com, Inc)<br />
-APL<br />
-App Inventor for Android's visual block language (MIT App Inventor)<br />
-AppleScript<br />
-APT<br />
-Arc<br />
-ARexx<br />
-Argus<br />
-Assembly language (ASM)<br />
-AutoHotkey<br />
-AutoIt<br />
-AutoLISP / Visual LISP<br />
-Averest<br />
-AWK<br />
-Axum<br />
-Babbage<br />
-Ballerina<br />
-Bash<br />
-BASIC<br />
-Batch file (Windows/MS-DOS)<br />
-bc (basic calculator)<br />
-BCPL<br />
-BeanShell<br />
-BETA<br />
-BLISS<br />
-Blockly<br />
-BlooP<br />
-Boo<br />
-Boomerang<br />
-Bosque<br />
-C – ISO/IEC 9899<br />
-C-- (C minus minus)<br />
-C++ (C plus plus) – ISO/IEC 14882<br />
-C*<br />
-C# (C sharp) – ISO/IEC 23270<br />
-C/AL<br />
-Caché ObjectScript<br />
-C Shell (csh)<br />
-Caml<br />
-Carbon<br />
-Catrobat<br />
-Cayenne (Lennart Augustsson)<br />
-CDuce<br />
-Cecil<br />
-CESIL (Computer Education in Schools Instruction Language)<br />
-Céu<br />
-Ceylon<br />
+Python (almost 18 years of experience)
+C# (C sharp) (15 years experience)<br />
 CFEngine<br />
-Cg (High-Level Shader/Shading Language [HLSL])<br />
-Ch<br />
-Chapel (Cascade High Productivity Language)<br />
-Charm<br />
-CHILL<br />
-CHIP-8<br />
-ChucK<br />
-Cilk (also Cilk++ and Cilk plus)<br />
-Claire<br />
-Clarion<br />
-Clean<br />
-Clipper<br />
-CLIPS<br />
-CLIST<br />
-Clojure<br />
-CLU<br />
-CMS-2<br />
-COBOL – ISO/IEC 1989<br />
-CobolScript – COBOL Scripting language<br />
-Cobra<br />
-CoffeeScript<br />
-ColdFusion<br />
-COMAL<br />
-COMIT<br />
-Common Intermediate Language (CIL)<br />
-Common Lisp (also known as CL)<br />
-COMPASS<br />
-Component Pascal<br />
-COMTRAN<br />
-Concurrent Pascal<br />
-Constraint Handling Rules (CHR)<br />
-Control Language<br />
-Coq<br />
-CORAL, Coral 66<br />
-CorVision<br />
-COWSEL<br />
-CPL<br />
-Cryptol<br />
-Crystal<br />
-Csound<br />
-Cuneiform<br />
-Curl<br />
-Curry<br />
-Cybil<br />
-Cyclone<br />
-Cypher Query Language<br />
-Cython<br />
-CEEMAC<br />
-D (also known as dlang)<br />
-Dart<br />
-Darwin<br />
-DataFlex<br />
-Datalog<br />
-DATATRIEVE<br />
-dBase<br />
-dc<br />
-DCL (DIGITAL Command Language)<br />
-Delphi<br />
-DIBOL<br />
-DinkC<br />
-Dog<br />
-Draco<br />
-DRAKON<br />
-Dylan<br />
-DYNAMO<br />
-DAX (Data Analysis Expressions)<br />
-E<br />
-Ease<br />
-Easy PL/I<br />
-EASYTRIEVE PLUS<br />
-eC<br />
-ECMAScript<br />
-Edinburgh IMP<br />
-EGL<br />
-Eiffel<br />
-ELAN<br />
-Elixir<br />
-Elm<br />
-Emacs Lisp<br />
-Emerald<br />
-Epigram<br />
-EPL (Easy Programming Language)<br />
-Erlangv
-es<br />
-Escher<br />
-ESPOL<br />
-Esterel<br />
-Etoys<br />
-Euclid<br />
-Euler<br />
-Euphoria<br />
-EusLisp Robot Programming Language<br />
-CMS EXEC (EXEC)<br />
-EXEC 2<br />
-Executable UML<br />
-Ezhil<br />
-F<br />
-F# (F sharp)<br />
-F*<br />
-Factor<br />
 Fantom<br />
-FAUST<br />
-FFP<br />
-fish<br />
-Fjölnir<br />
-FL<br />
-Flavors<br />
-Flex<br />
-Flix<br />
-FlooP<br />
-FLOW-MATIC (B0)<br />
-FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)<br />
-FOCUS<br />
-FOIL<br />
-FORMAC (FORMula MAnipulation Compiler)<br />
-@Formula<br />
-Forth<br />
-Fortran – ISO/IEC 1539<br />
-Fortress<br />
-FP<br />
-FoxBase/FoxPro<br />
-Franz Lisp<br />
-Futhark<br />
-F-Script<br />
-Game Maker Language<br />
-GameMonkey Script<br />
-General Algebraic Modeling System (GAMS)<br />
-GAP<br />
-G-code<br />
-GDScript (Godot) (almost 10 years experience)<br />
-Genie<br />
-Geometric Description Language (GDL)<br />
-GEORGE<br />
-OpenGL Shading Language (GLSL)<br />
-GNU E<br />
-GNU Ubiquitous Intelligent Language for Extensions (GNU Guile)<br />
-Go<br />
-Go!<br />
-Game Oriented Assembly Lisp (GOAL)<br />
-Gödel<br />
-Golo<br />
-Good Old Mad (GOM)<br />
-Google Apps Script<br />
-Gosu<br />
-GOTRAN (IBM 1620)<br />
-General Purpose Simulation System (GPSS)<br />
-GraphTalk (Computer Sciences Corporation)<br />
-GRASS<br />
-Grasshopper<br />
-Groovy (by Apache)<br />
-Hack<br />
-HAGGIS<br />
-HAL/S<br />
-Halide (programming language)<br />
-Hamilton C shell<br />
-Harbour<br />
-Hartmann pipelines<br />
-Haskell<br />
-Haxe<br />
-Hermes<br />
-High Level Assembly (HLA)<br />
-High Level Shader Language (HLSL)<br />
-Hollywood<br />
+Vala<br />
+Machine code<br />
+Zig<br />
+Mercury<br />
 HolyC (TempleOS)<br />
-Hop<br />
-Hopscotch<br />
-Hope<br />
-Hume<br />
-HyperTalk<br />
-Hy<br />
-Io<br />
-Icon<br />
-IBM Basic assembly language<br />
-IBM HAScript<br />
-IBM Informix-4GL<br />
-IBM RPG<br />
-IDL<br />
-Idris<br />
-Inform<br />
-ISLISP<br />
-J<br />
-J# (J sharp)<br />
-J++ (J plus plus)<br />
-JADE<br />
-Jai<br />
-JAL<br />
-Janus (concurrent constraint programming language)<br />
-Janus (time-reversible computing programming language)<br />
-JASS<br />
-Java<br />
-JavaFX Script<br />
-JavaScript<br />
-Jess<br />
-JCL<br />
-JEAN<br />
-Join Java<br />
-JOSS<br />
-Joule<br />
-JOVIAL<br />
-Joy<br />
-jq<br />
-JScript<br />
-JScript .NET<br />
-Julia<br />
-Jython<br />
-K<br />
-Kaleidoscope<br />
-Karel<br />
-KEE<br />
-Kixtart<br />
-Klerer-May System<br />
-KIF (Knowledge Interchange Format)<br />
-Kojo<br />
-Kotlin<br />
-KRC<br />
-KRL<br />
-KRL (KUKA Robot Language)<br />
-KRYPTON<br />
-KornShell (ksh)<br />
-Kodu<br />
-Kv (Kivy)<br />
-L<br />
-LabVIEW<br />
-Ladder<br />
-LANSA<br />
-Lasso<br />
-Lava<br />
-LC-3<br />
-Lean<br />
-Legoscript<br />
-LIL<br />
-LilyPond<br />
+Claire<br />
+PL/B<br />
+Good Old Mad (GOM)<br />
+Zonnon<br />
+Ceylon<br />
+Hack<br />
 Limbo<br />
+Raku<br />
+Xojo<br />
+Verse<br />
+Powerhouse<br />
+Prograph<br />
+AWK<br />
+ScratchJr<br />
+Cayenne (Lennart Augustsson)<br />
+KRYPTON<br />
+Strand<br />
+C – ISO/IEC 9899<br />
+OCaml<br />
+JavaScript<br />
+Fortran – ISO/IEC 1539<br />
+C-- (C minus minus)<br />
+Go<br />
+Cybil<br />
+Alice (Alice ML)<br />
+Oxygene<br />
+SAKO<br />
+Cypher Query Language<br />
+Processing.js<br />
+Logtalk<br />
+ALGOL 68<br />
+Opa<br />
+LIL<br />
+Charm<br />
+SIMPOL<br />
+Legoscript<br />
+Mutan<br />
+HAGGIS<br />
+SQL<br />
+Cython<br />
+Coq<br />
+M Formula language<br />
+PCF<br />
+Forth<br />
+Icon<br />
+Factor<br />
+Ladder<br />
+KornShell (ksh)<br />
+Scilab<br />
+Hollywood<br />
+fish<br />
+SML<br />
+occam<br />
+Lisp – ISO/IEC 13816<br />
+Component Pascal<br />
+Quantum Computation Language<br />
+Zebra <br />
+RPG<br />
+Oak<br />
+Script.NET<br />
+Hop<br />
+ZetaLisp<br />
+J<br />
+Maya (MEL)<br />
+JavaFX Script<br />
+occam-π<br />
+Oriel<br />
+Lynx<br />
+App Inventor for Android's visual block language (MIT App Inventor)<br />
+Futhark<br />
+Modelica<br />
+LotusScript<br />
+HyperTalk<br />
+DIBOL<br />
+Strongtalk<br />
+RPL<br />
+SPS<br />
+Adenine (Haystack)<br />
+Squirrel<br />
+Hartmann pipelines<br />
+Q#<br />
+Lucid<br />
+DAX (Data Analysis Expressions)<br />
+MAPPER (now part of BIS)<br />
+FOCUS<br />
+NewLISP<br />
+ActionScript<br />
+Scheme<br />
+General Purpose Simulation System (GPSS)<br />
+PEARL<br />
+Seed7<br />
+Tcl<br />
+Visual Prolog<br />
+Logo<br />
+SISAL<br />
+Mortran<br />
+Karel<br />
+Harbour<br />
+MOO<br />
+Yoix<br />
+ACC<br />
+CPL<br />
+Control Language<br />
+SPARK<br />
+Rapira<br />
+XSharp (X#)<br />
+COBOL – ISO/IEC 1989<br />
+ROOP<br />
+WebAssembly<br />
+SMALL<br />
+Axum<br />
+PL360<br />
+ABC ALGOL<br />
+Edinburgh IMP<br />
+Visual FoxPro<br />
+SiMPLE<br />
+Jython<br />
+MaxScript internal language 3D Studio Max<br />
+JOSS<br />
+Boo<br />
+FlooP<br />
+Concurrent Pascal<br />
 LINC<br />
-Lingo<br />
-LINQ<br />
+PowerShell<br />
+CorVision<br />
+Hy<br />
+CDuce<br />
+Tea<br />
+Net.Data<br />
+Go!<br />
+TTCN (Tree and Tabular Combined Notation)<br />
+AIMMS<br />
+GEORGE<br />
+POP-11<br />
+V (also known as vlone)<br />
+ObjectLOGO<br />
+MASM Microsoft Assembly x86<br />
+TELCOMP<br />
+Scratch<br />
+X10<br />
+Scala<br />
+Ring<br />
+OmniMark<br />
+es<br />
+Neko<br />
+Argus<br />
+ARexx<br />
+SAS<br />
+Wolfram Language<br />
+Common Intermediate Language (CIL)<br />
+SenseTalk<br />
+Cg (High-Level Shader/Shading Language [HLSL])<br />
+MPD<br />
+PROTEL<br />
+XSLT<br />
+SOPHAEROS<br />
+ColdFusion<br />
+Averest<br />
+General Algebraic Modeling System (GAMS)<br />
+Hope<br />
+FOIL<br />
+Maxima (see also Macsyma)<br />
+Kotlin<br />
+MATH-MATIC<br />
+SuperTalk<br />
+Pizza<br />
+DATATRIEVE<br />
+PostScript<br />
+Apex (Salesforce.com, Inc)<br />
+Subtext<br />
+Jai<br />
+COMPASS<br />
+Microsoft Power Fx<br />
+GDScript (Godot) (almost 10 years experience)<br />
+IBM Informix-4GL<br />
+Curry<br />
+Speakeasy<br />
+KIF (Knowledge Interchange Format)<br />
+High Level Assembly (HLA)<br />
+ALGOL 58<br />
+BLISS<br />
+JASS<br />
+Objective-C<br />
+ZOPL<br />
+Pike<br />
+TeX<br />
+Uniface<br />
+MAD/I<br />
+Nim<br />
+Miranda<br />
+C Shell (csh)<br />
+Clarion<br />
+Curl<br />
+Stateflow<br />
+SIGNAL<br />
+Catrobat<br />
+G-code<br />
+Nial<br />
+LilyPond<br />
+Lithe<br />
+Whiley<br />
+Pascal – ISO 7185<br />
+MUMPS<br />
+Common Lisp (also known as CL)<br />
+TTM<br />
+dc<br />
+PortablE<br />
+DataFlex<br />
+XBL<br />
+ISLISP<br />
+Emacs Lisp<br />
+Haxe<br />
+Object Pascal<br />
+Ratfor<br />
 LIS<br />
 LISA<br />
-Language H<br />
-Lisp – ISO/IEC 13816<br />
-Lite-C<br />
-Lithe<br />
-Little b<br />
-LLL<br />
-Logo<br />
-Logtalk<br />
-LotusScript<br />
 LPC<br />
-LSE<br />
-LSL<br />
-LiveCode<br />
-LiveScript<br />
-Lua<br />
-Lucid<br />
-Lustre<br />
-LYaPAS<br />
-Lynx<br />
-M Formula language<br />
-M2001<br />
-M4<br />
-M#<br />
-Machine code<br />
-MAD (Michigan Algorithm Decoder)<br />
-MAD/I<br />
-Magik<br />
-Magma<br />
-Maple<br />
-MAPPER (now part of BIS)<br />
-MARK-IV (now VISION:BUILDER)<br />
-Mary<br />
-MATLAB<br />
-MASM Microsoft Assembly x86<br />
-MATH-MATIC<br />
-Maude system<br />
-Maxima (see also Macsyma)<br />
-Max (Max Msp – Graphical Programming Environment)<br />
-MaxScript internal language 3D Studio Max<br />
-Maya (MEL)<br />
-MDL<br />
-Mercury<br />
-Mesa<br />
-MHEG-5 (Interactive TV programming language)<br />
-Microcode<br />
-Microsoft Power Fx<br />
-MIIS<br />
-MIMIC<br />
-Mirah<br />
-Miranda<br />
-MIVA Script<br />
-ML<br />
-Model 204<br />
-Modelica<br />
-Malbolge<br />
-Modula<br />
-Modula-2<br />
-Modula-3<br />
-Mohol<br />
-Mojo<br />
-MOO<br />
-Mortran<br />
-Mouse<br />
-MPD<br />
-MSL<br />
-MUMPS<br />
-MuPAD<br />
-Mutan<br />
-Mystic Programming Language (MPL)<br />
-NASM<br />
-Napier88<br />
-Neko<br />
-Nemerle<br />
-NESL<br />
-Net.Data<br />
-NetLogo<br />
-NetRexx<br />
-NewLISP<br />
-NEWP<br />
-Newspeak<br />
-NewtonScript<br />
-Nial<br />
-Nickle (NITIN)<br />
-Nim<br />
-Nix (Systems configuration language)<br />
-NPL<br />
-Not eXactly C (NXC)<br />
-Not Quite C (NQC)<br />
-NSIS<br />
-Nu<br />
-NWScript<br />
-NXT-G<br />
-o:XML<br />
-Oak<br />
-Oberon<br />
-OBJ2<br />
-Object Lisp<br />
-ObjectLOGO<br />
-Object REXX<br />
-Object Pascal<br />
-Objective-C<br />
-Obliq<br />
-OCaml<br />
-occam<br />
-occam-π<br />
-Octave<br />
-OmniMark<br />
-Opa<br />
-Opal<br />
-Open Programming Language (OPL)<br />
-OpenCL<br />
-OpenEdge Advanced Business Language (ABL)<br />
-OpenVera<br />
-OpenQASM<br />
-OPS5<br />
-OptimJ<br />
-Orc<br />
-ORCA/Modula-2<br />
-Oriel<br />
-Orwell<br />
-Oxygene<br />
-Oz<br />
-P<br />
-P4<br />
-P′′<br />
-ParaSail<br />
-PARI/GP<br />
-Pascal – ISO 7185<br />
-Pascal Script<br />
-PCASTL<br />
-PCF<br />
-PEARL<br />
-PeopleCode<br />
-Perl<br />
-PDL<br />
-Pharo<br />
-PHP<br />
-Pico<br />
-Picolisp<br />
-Pict<br />
-Pike<br />
-PILOT<br />
-Pipelines<br />
-Pizza<br />
-PL-11<br />
-PL/0<br />
-PL/B<br />
-PL/C<br />
-PL/I – ISO 6160<br />
-PL/M<br />
-PL/P<br />
-PL/S<br />
-PL/SQL<br />
-PL360<br />
-PLANC<br />
-Plankalkül<br />
-Planner<br />
-PLEX<br />
-PLEXIL<br />
-Plus<br />
-POP-11<br />
-POP-2<br />
-PostScript<br />
-PortablE<br />
-POV-Ray SDL<br />
-Powerhouse<br />
-PowerBuilder – 4GL GUI application generator from Sybase<br />
-PowerShell<br />
-PPL<br />
-Processing<br />
-Processing.js<br />
-Prograph<br />
-Project Verona<br />
-Prolog<br />
-PROMAL<br />
-Promela<br />
-PROSE modeling language<br />
-PROTEL<br />
-ProvideX<br />
-Pro*C<br />
-Pure<br />
-Pure Data<br />
-PureScript<br />
-PWCT<br />
-Python (Almost 18 years experience)<br />
-Q (programming language from Kx Systems)<br />
-Q#<br />
-Qalb<br />
-Quantum Computation Language<br />
-QtScript<br />
-QuakeC<br />
 QPL<br />
-.QL<br />
-R<br />
-R++<br />
-Racket<br />
-Raku<br />
-RAPID<br />
-Rapira<br />
-Ratfiv<br />
-Ratfor<br />
-rc<br />
-Reason<br />
-REBOL<br />
-Red<br />
-Redcode<br />
-REFAL<br />
-REXX<br />
-Ring<br />
-ROOP<br />
-RPG<br />
-RPL<br />
-RSL<br />
-RTL/2<br />
-Ruby<br />
-Rust<br />
-S<br />
+Franz Lisp<br />
 S2<br />
-S3<br />
-S-Lang<br />
-S-PLUS<br />
-SA-C<br />
-SabreTalk<br />
-SAIL<br />
-SAKO<br />
-SAS<br />
-SASL<br />
-Sather<br />
-Sawzall<br />
-Scala<br />
-Scheme<br />
-Scilab<br />
-Scratch<br />
-ScratchJr<br />
-Script.NET<br />
-Sed<br />
-Seed7<br />
-Self<br />
-SenseTalk<br />
-SequenceL<br />
-Serpent<br />
-SETL<br />
-Short Code<br />
-SIMPOL<br />
-SIGNAL<br />
-SiMPLE<br />
-SIMSCRIPT<br />
-Simula<br />
-Simulink<br />
-SISAL<br />
-SKILLv<br />
-SLIP<br />
-SMALL<br />
-Smalltalk<br />
-SML<br />
-Strongtalk<br />
-Snap!<br />
-SNOBOL (SPITBOL)<br />
-Snowball<br />
-SOL<br />
-Solidity<br />
-SOPHAEROS<br />
-Source<br />
-SPARK<br />
-Speakeasy<br />
-Speedcode<br />
-SPIN<br />
-SP/k<br />
-SPS<br />
-SQL<br />
-SQR<br />
-Squeak<br />
-Squirrel<br />
-SR<br />
-S/SL<br />
-Starlogo<br />
-Strand<br />
-Stata<br />
-Stateflow<br />
-Subtext<br />
-SBL<br />
-SuperCollider<br />
-Superplan<br />
-SuperTalk<br />
-Swift (Apple programming language)<br />
-Swift (parallel scripting language)<br />
-SYMPL<br />
-TACL<br />
-TACPOL<br />
-TADS (Text Adventure Development System)<br />
-TAL<br />
-Tcl<br />
-Tea<br />
-TECO (Text Editor and Corrector)<br />
-TELCOMP<br />
-TeX<br />
-TEX (Text Executive Programming Language)<br />
-TIE<br />
-TMG (TransMoGrifier), compiler-compiler<br />
-Tom<br />
-Toi<br />
-Topspeed (Clarion)<br />
-TPU (Text Processing Utility)<br />
-Trac<br />
-TTM<br />
-T-SQL (Transact-SQL)<br />
-Transcript (LiveCode)<br />
-TTCN (Tree and Tabular Combined Notation)<br />
-Turing<br />
-TUTOR (PLATO Author Language)<br />
-TXL<br />
-TypeScript<br />
-Tynker<br />
-Ubercode<br />
-UCSD Pascal<br />
-Umple<br />
-Unicon<br />
-Uniface<br />
-UNITY<br />
-UnrealScript<br />
-V (also known as vlone)<br />
-Vala<br />
-Verse<br />
-Vim script<br />
-Viper (Ethereum/Ether (ETH))<br />
-Visual DataFlex<br />
-Visual DialogScript<br />
-Visual FoxPro<br />
+PLEXIL<br />
+AutoLISP / Visual LISP<br />
+IDL<br />
+EGL<br />
+Not eXactly C (NXC)<br />
 Visual J++ (Visual J plus plus)<br />
-Visual LISP<br />
-Visual Objects<br />
-Visual Prolog<br />
-WATFIV, WATFOR (WATerloo FORtran IV)<br />
-WebAssembly<br />
-WebDNA<br />
-Whiley<br />
-Winbatch<br />
-Wolfram Language<br />
-Wyvern<br />
-X++ (X plus plus/Microsoft Dynamics AX)<br />
-X10<br />
-xBase++ (xBase plus plus)<br />
-XBL<br />
-XC (targets XMOS architecture)<br />
+FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)<br />
+Mesa<br />
+NXT-G<br />
+C/AL<br />
+NetLogo<br />
+Caché ObjectScript<br />
+Object REXX<br />
+OpenVera<br />
+OBJ2<br />
+Simulink<br />
+Source<br />
+KRC<br />
+Joule<br />
+Simula<br />
+FoxBase/FoxPro<br />
+Mystic Programming Language (MPL)<br />
+jq<br />
+Oz<br />
+KRL (KUKA Robot Language)<br />
+Babbage<br />
+Kodu<br />
+Constraint Handling Rules (CHR)<br />
+Kv (Kivy)<br />
+ALGOL 60<br />
+Microcode<br />
+SequenceL<br />
+TACL<br />
+R++<br />
+PowerBuilder – 4GL GUI application generator from Sybase<br />
+SKILLv<br />
+Carbon<br />
+MATLAB<br />
+Not Quite C (NQC)<br />
 xHarbour<br />
-XL<br />
-Xojo<br />
-XOTcl<br />
-Xod<br />
-XPL<br />
+Racket<br />
+COMTRAN<br />
+Tynker<br />
+Fortress<br />
+Ruby<br />
+POP-2<br />
+Flex<br />
+Geometric Description Language (GDL)<br />
+Topspeed (Clarion)<br />
+SR<br />
+AutoHotkey<br />
+GraphTalk (Computer Sciences Corporation)<br />
+Promela<br />
+MIIS<br />
+Squeak<br />
+Superplan<br />
+AdvPL<br />
+Stata<br />
+PHP<br />
 XPL0<br />
-XQuery<br />
-XSB<br />
-XSharp (X#)<br />
-XSLT<br />
-Xtend<br />
-Yorick<br />
+Game Oriented Assembly Lisp (GOAL)<br />
+HAL/S<br />
+MSL<br />
+Boomerang<br />
+TIE<br />
+FAUST<br />
+Lite-C<br />
+UnrealScript<br />
+P<br />
+Elm<br />
+Genie<br />
+Emerald<br />
+AutoIt<br />
+Picolisp<br />
+Trac<br />
+CLIPS<br />
+BeanShell<br />
+Flavors<br />
+PDL<br />
+LSE<br />
+Napier88<br />
+Bosque<br />
+KEE<br />
+PL/I – ISO 6160<br />
+OpenQASM<br />
+AMPL<br />
+Vim script<br />
+CLU<br />
+Lustre<br />
+SASL<br />
+UCSD Pascal<br />
+Modula-2<br />
+Ubercode<br />
+M2001<br />
+Haskell<br />
+Amiga E<br />
 YQL<br />
-Yoix<br />
-Z shell<br />
-Zebra <br />
+XC (targets XMOS architecture)<br />
+Reason<br />
+Klerer-May System<br />
+Pascal Script<br />
+Mouse<br />
 ZPL<br />
+Blockly<br />
+Oberon<br />
+Dart<br />
+Clipper<br />
+Batch file (Windows/MS-DOS)<br />
+Janus (time-reversible computing programming language)<br />
+Céu<br />
+Malbolge<br />
+Redcode<br />
+Cyclone<br />
+SP/k<br />
+SNOBOL (SPITBOL)<br />
+LSL<br />
+PLEX<br />
+Transcript (LiveCode)<br />
+Datalog<br />
+Rust<br />
+BASIC<br />
+Prolog<br />
+LYaPAS<br />
+TMG (TransMoGrifier), compiler-compiler<br />
+TypeScript<br />
+MuPAD<br />
+SuperCollider<br />
+Alma-0<br />
+Pict<br />
 ZPL2<br />
+ESPOL<br />
+Octave<br />
+Cuneiform<br />
+PROMAL<br />
+SQR<br />
+F# (F sharp)<br />
+CMS-2<br />
+Escher<br />
+Game Maker Language<br />
+Agda<br />
+Joy<br />
+Visual Objects<br />
+Csound<br />
+Opal<br />
+PL/0<br />
+Modula<br />
+bc (basic calculator)<br />
+Caml<br />
+Agora<br />
+Dog<br />
+SabreTalk<br />
+Epigram<br />
+Nu<br />
+Arc<br />
+ABAP (only 1.5 years experience)<br />
+A-0 System <br />
+ParaSail<br />
+C++ (C plus plus) – ISO/IEC 14882<br />
+ML<br />
+Mary<br />
+CMS EXEC (EXEC)<br />
+CORAL, Coral 66<br />
+FP<br />
+Lua<br />
+SLIP<br />
+Kojo<br />
+PL/P<br />
+Snap!<br />
+SPIN<br />
+Hermes<br />
+REXX<br />
+Flix<br />
+DinkC<br />
+rc<br />
+PL/C<br />
+Ratfiv<br />
+DCL (DIGITAL Command Language)<br />
+MDL<br />
+Kaleidoscope<br />
+UNITY<br />
+Google Apps Script<br />
+S<br />
+Solidity<br />
+Java<br />
+Sather<br />
+R<br />
+Lean<br />
+COMAL<br />
+Esterel<br />
+Crystal<br />
+Lava<br />
+Object Lisp<br />
+.QL<br />
+ELAN<br />
+Cecil<br />
+T-SQL (Transact-SQL)<br />
+Ch<br />
+SBL<br />
+o:XML<br />
+EASYTRIEVE PLUS<br />
+NSIS<br />
+Sed<br />
+Model 204<br />
+NPL<br />
+eC<br />
+Apache Pig latin<br />
+SETL<br />
+Self<br />
+CoffeeScript<br />
+M4<br />
+Maple<br />
+CLIST<br />
+PeopleCode<br />
+XOTcl<br />
+DRAKON<br />
+High Level Shader Language (HLSL)<br />
+P4<br />
+S/SL<br />
+Pure Data<br />
+OPS5<br />
+Analitik<br />
+Ballerina<br />
+REBOL<br />
+Eiffel<br />
+PILOT<br />
+LLL<br />
+Viper (Ethereum/Ether (ETH))<br />
+Clean<br />
+Inform<br />
+Draco<br />
+IBM Basic assembly language<br />
+Modula-3<br />
+CESIL (Computer Education in Schools Instruction Language)<br />
+ABC<br />
+Hume<br />
+Executable UML<br />
+SAIL<br />
+Visual DialogScript<br />
+Easy PL/I<br />
+QuakeC<br />
+JEAN<br />
+PWCT<br />
+FFP<br />
+BETA<br />
+Pro*C<br />
+Xtend<br />
+ChucK<br />
+XPL<br />
+Smalltalk<br />
+SYMPL<br />
+Pico<br />
+Idris<br />
+SA-C<br />
+Plankalkül<br />
+Darwin<br />
+NASM<br />
+F<br />
+GameMonkey Script<br />
+FLOW-MATIC (B0)<br />
+Visual LISP<br />
+Swift (Apple programming language)<br />
+RSL<br />
+JADE<br />
+CHIP-8<br />
+ALF<br />
+Grasshopper<br />
+P′′<br />
+Qalb<br />
+Magik<br />
+J++ (J plus plus)<br />
+M#<br />
+Unicon<br />
+NewtonScript<br />
+AngelScript<br />
 Zeno<br />
-ZetaLisp<br />
-Zig<br />
-Zonnon<br />
-ZOPL<br />
-ZPL<br />
+Janus (concurrent constraint programming language)<br />
+Max (Max Msp – Graphical Programming Environment)<br />
+Open Programming Language (OPL)<br />
+Etoys<br />
+Mirah<br />
+Erlangv
+OpenEdge Advanced Business Language (ABL)<br />
+Nemerle<br />
+Cilk (also Cilk++ and Cilk plus)<br />
+Mohol<br />
+Lasso<br />
+PL/S<br />
+Halide (programming language)<br />
+Short Code<br />
+RTL/2<br />
+@Formula<br />
+APT<br />
+NESL<br />
+Ada – ISO/IEC 8652<br />
+Assembly language (ASM)<br />
+TADS (Text Adventure Development System)<br />
+Pharo<br />
+Gödel<br />
+Wyvern<br />
+KRL<br />
+Maude system<br />
+AmbientTalk<br />
 Z++<br />
+Dylan<br />
+Aldor<br />
+Winbatch<br />
+OpenGL Shading Language (GLSL)<br />
+PROSE modeling language<br />
+PureScript<br />
+Gosu<br />
+Ease<br />
+POV-Ray SDL<br />
+SOL<br />
+FL<br />
+GRASS<br />
+TUTOR (PLATO Author Language)<br />
+Little b<br />
+ORCA/Modula-2<br />
+DYNAMO<br />
+MARK-IV (now VISION:BUILDER)<br />
+xBase++ (xBase plus plus)<br />
+TECO (Text Editor and Corrector)<br />
+A+ (A plus)<br />
+Toi<br />
+Magma<br />
+Z shell<br />
+S3<br />
+WebDNA<br />
+LabVIEW<br />
+REFAL<br />
+Nix (Systems configuration language)<br />
+Serpent<br />
+Euclid<br />
+ZPL<br />
+J# (J sharp)<br />
+C*<br />
+JScript<br />
+TXL<br />
+Pure<br />
+XSB<br />
+Alef<br />
+Actor<br />
+Visual DataFlex<br />
+MIVA Script<br />
+Julia<br />
+Obliq<br />
+NEWP<br />
+Xod<br />
+Hopscotch<br />
+Newspeak<br />
+Orc<br />
+BlooP<br />
+JOVIAL<br />
+Planner<br />
+Q (programming language from Kx Systems)<br />
+PL/M<br />
+LINQ<br />
+Fjölnir<br />
+F-Script<br />
+Jess<br />
+PCASTL<br />
+MHEG-5 (Interactive TV programming language)<br />
+GAP<br />
+K<br />
+Speedcode<br />
+ECMAScript<br />
+Hamilton C shell<br />
+Agilent VEE (Keysight VEE)<br />
+D (also known as dlang)<br />
+WATFIV, WATFOR (WATerloo FORtran IV)<br />
+LANSA<br />
+COMIT<br />
+Delphi<br />
+Yorick<br />
+Plus<br />
+Action!<br />
+OptimJ<br />
+Swift (parallel scripting language)<br />
+S-PLUS<br />
+Perl<br />
+Cobra<br />
+Golo<br />
+PLANC<br />
+AppleScript<br />
+Clojure<br />
+PL-11<br />
+OpenCL<br />
+PPL<br />
+RAPID<br />
+EPL (Easy Programming Language)<br />
+LiveCode<br />
+APL<br />
+XL<br />
+GNU Ubiquitous Intelligent Language for Extensions (GNU Guile)<br />
+Mojo<br />
+EusLisp Robot Programming Language<br />
+Red<br />
+PL/SQL<br />
+L<br />
+Io<br />
+Processing<br />
+Project Verona<br />
+BCPL<br />
+E<br />
+CHILL<br />
+CobolScript – COBOL Scripting language<br />
+JScript .NET<br />
+Join Java<br />
+Chapel (Cascade High Productivity Language)<br />
+LC-3<br />
+SIMSCRIPT<br />
+TEX (Text Executive Programming Language)<br />
+MAD (Michigan Algorithm Decoder)<br />
+Snowball<br />
+JCL<br />
+Cryptol<br />
+Language H<br />
+Tom<br />
+X++ (X plus plus/Microsoft Dynamics AX)<br />
+Groovy (by Apache)<br />
+CEEMAC<br />
+ProvideX<br />
+Umple<br />
+Nickle (NITIN)<br />
+Turing<br />
+F*<br />
+Lingo<br />
+Kixtart<br />
+IBM HAScript<br />
+ALGOL W<br />
+Elixir<br />
+Sawzall<br />
+QtScript<br />
+GNU E<br />
+TAL<br />
+NWScript<br />
+NetRexx<br />
+MIMIC<br />
+S-Lang<br />
+PARI/GP<br />
+XQuery<br />
+FORMAC (FORMula MAnipulation Compiler)<br />
+Pipelines<br />
+IBM RPG<br />
+JAL<br />
+Accent (Rational Synergy)<br />
+COWSEL<br />
+Starlogo<br />
+Ezhil<br />
+Euphoria<br />
+GOTRAN (IBM 1620)<br />
+EXEC 2<br />
+TACPOL<br />
+TPU (Text Processing Utility)<br />
+Euler<br />
+Orwell<br />
+dBase<br />
+LiveScript<br />
 </span>
