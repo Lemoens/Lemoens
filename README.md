@@ -4,7 +4,8 @@
 
 #
  <br />
-![giphy](https://github.com/Lemoens/Lemoens/assets/159124482/0dd6ab79-cdde-4c6e-bfb2-7aba2657823e)
+
+![giphy](https://github.com/Lemoens/Lemoens/assets/159124482/ff2a1127-a3c5-4390-bc26-5fb91216f928)
 
 ![text](https://github.com/Lemoens/Lemoens/assets/159124482/73477bea-784f-43ac-be8a-11bf7bba2977)
 
