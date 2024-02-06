@@ -5,11 +5,11 @@
 Languages i program in, (at least 3 years experience on each): <br />
 A.NET (A#/A sharp) <br />
 A-0 System <br />
-A+ (A plus)
-ABAP
-ABC
-ABC ALGOL
-ACC
+A+ (A plus)<br />
+ABAP<br />
+ABC<br />
+ABC ALGOL<br />
+ACC<br />
 Accent (Rational Synergy)
 Ace Distributed Application Specification Language (DASL)
 Action!
