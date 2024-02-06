@@ -3,6 +3,8 @@
 ![w0k02ubjriw61 (2)](https://github.com/Lemoens/Lemoens/assets/159124482/045a0dd2-137a-4e13-b1a4-1d0caa50a613)
 
 #
+ <br />
+![giphy](https://github.com/Lemoens/Lemoens/assets/159124482/0dd6ab79-cdde-4c6e-bfb2-7aba2657823e)
 
 ![text](https://github.com/Lemoens/Lemoens/assets/159124482/73477bea-784f-43ac-be8a-11bf7bba2977)
 
