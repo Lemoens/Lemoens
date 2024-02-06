@@ -8,7 +8,7 @@ Languages i program in, (at least 3 years experience on each): <br />
 A.NET (A#/A sharp) <br />
 A-0 System <br />
 A+ (A plus)<br />
-ABAP<br />
+ABAP (only 2.5 years but i counted it in here)<br />
 ABC<br />
 ABC ALGOL<br />
 ACC<br />
@@ -109,160 +109,160 @@ CobolScript – COBOL Scripting language<br />
 Cobra<br />
 CoffeeScript<br />
 ColdFusion<br />
-COMAL
-COMIT
-Common Intermediate Language (CIL)
-Common Lisp (also known as CL)
-COMPASS
-Component Pascal
-COMTRAN
-Concurrent Pascal
-Constraint Handling Rules (CHR)
-Control Language
-Coq
-CORAL, Coral 66
-CorVision
-COWSEL
-CPL
-Cryptol
-Crystal
-Csound
-Cuneiform
-Curl
-Curry
-Cybil
-Cyclone
-Cypher Query Language
-Cython
-CEEMAC
-D (also known as dlang)
-Dart
-Darwin
-DataFlex
-Datalog
-DATATRIEVE
-dBase
-dc
-DCL (DIGITAL Command Language)
-Delphi
-DIBOL
-DinkC
-Dog
-Draco
-DRAKON
-Dylan
-DYNAMO
-DAX (Data Analysis Expressions)
-E
-Ease
-Easy PL/I
-EASYTRIEVE PLUS
-eC
-ECMAScript
-Edinburgh IMP
-EGL
-Eiffel
-ELAN
-Elixir
-Elm
-Emacs Lisp
-Emerald
-Epigram
-EPL (Easy Programming Language)
-Erlang
-es
-Escher
-ESPOL
-Esterel
-Etoys
-Euclid
-Euler
-Euphoria
-EusLisp Robot Programming Language
-CMS EXEC (EXEC)
-EXEC 2
-Executable UML
-Ezhil
-F
-F# (F sharp)
-F*
-Factor
-Fantom
-FAUST
-FFP
-fish
-Fjölnir
-FL
-Flavors
-Flex
-Flix
-FlooP
-FLOW-MATIC (B0)
-FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)
-FOCUS
-FOIL
-FORMAC (FORMula MAnipulation Compiler)
-@Formula
-Forth
-Fortran – ISO/IEC 1539
-Fortress
-FP
-FoxBase/FoxPro
-Franz Lisp
-Futhark
-F-Script
-Game Maker Language
-GameMonkey Script
-General Algebraic Modeling System (GAMS)
-GAP
-G-code
-GDScript (Godot)
-Genie
-Geometric Description Language (GDL)
-GEORGE
-OpenGL Shading Language (GLSL)
-GNU E
-GNU Ubiquitous Intelligent Language for Extensions (GNU Guile)
-Go
-Go!
-Game Oriented Assembly Lisp (GOAL)
-Gödel
-Golo
-Good Old Mad (GOM)
-Google Apps Script
-Gosu
-GOTRAN (IBM 1620)
-General Purpose Simulation System (GPSS)
-GraphTalk (Computer Sciences Corporation)
-GRASS
-Grasshopper
-Groovy (by Apache)
-Hack
-HAGGIS
-HAL/S
-Halide (programming language)
-Hamilton C shell
-Harbour
-Hartmann pipelines
-Haskell
-Haxe
-Hermes
-High Level Assembly (HLA)
-High Level Shader Language (HLSL)
-Hollywood
-HolyC (TempleOS)
-Hop
-Hopscotch
-Hope
-Hume
-HyperTalk
-Hy
-Io
-Icon
-IBM Basic assembly language
-IBM HAScript
-IBM Informix-4GL
-IBM RPG
+COMAL<br />
+COMIT<br />
+Common Intermediate Language (CIL)<br />
+Common Lisp (also known as CL)<br />
+COMPASS<br />
+Component Pascal<br />
+COMTRAN<br />
+Concurrent Pascal<br />
+Constraint Handling Rules (CHR)<br />
+Control Language<br />
+Coq<br />
+CORAL, Coral 66<br />
+CorVision<br />
+COWSEL<br />
+CPL<br />
+Cryptol<br />
+Crystal<br />
+Csound<br />
+Cuneiform<br />
+Curl<br />
+Curry<br />
+Cybil<br />
+Cyclone<br />
+Cypher Query Language<br />
+Cython<br />
+CEEMAC<br />
+D (also known as dlang)<br />
+Dart<br />
+Darwin<br />
+DataFlex<br />
+Datalog<br />
+DATATRIEVE<br />
+dBase<br />
+dc<br />
+DCL (DIGITAL Command Language)<br />
+Delphi<br />
+DIBOL<br />
+DinkC<br />
+Dog<br />
+Draco<br />
+DRAKON<br />
+Dylan<br />
+DYNAMO<br />
+DAX (Data Analysis Expressions)<br />
+E<br />
+Ease<br />
+Easy PL/I<br />
+EASYTRIEVE PLUS<br />
+eC<br />
+ECMAScript<br />
+Edinburgh IMP<br />
+EGL<br />
+Eiffel<br />
+ELAN<br />
+Elixir<br />
+Elm<br />
+Emacs Lisp<br />
+Emerald<br />
+Epigram<br />
+EPL (Easy Programming Language)<br />
+Erlangv
+es<br />
+Escher<br />
+ESPOL<br />
+Esterel<br />
+Etoys<br />
+Euclid<br />
+Euler<br />
+Euphoria<br />
+EusLisp Robot Programming Language<br />
+CMS EXEC (EXEC)<br />
+EXEC 2<br />
+Executable UML<br />
+Ezhil<br />
+F<br />
+F# (F sharp)<br />
+F*<br />
+Factor<br />
+Fantom<br />
+FAUST<br />
+FFP<br />
+fish<br />
+Fjölnir<br />
+FL<br />
+Flavors<br />
+Flex<br />
+Flix<br />
+FlooP<br />
+FLOW-MATIC (B0)<br />
+FOCAL (Formulating On-Line Calculations in Algebraic Language/FOrmula CALculator)<br />
+FOCUS<br />
+FOIL<br />
+FORMAC (FORMula MAnipulation Compiler)<br />
+@Formula<br />
+Forth<br />
+Fortran – ISO/IEC 1539<br />
+Fortress<br />
+FP<br />
+FoxBase/FoxPro<br />
+Franz Lisp<br />
+Futhark<br />
+F-Script<br />
+Game Maker Language<br />
+GameMonkey Script<br />
+General Algebraic Modeling System (GAMS)<br />
+GAP<br />
+G-code<br />
+GDScript (Godot) (almost 10 years experience)<br />
+Genie<br />
+Geometric Description Language (GDL)<br />
+GEORGE<br />
+OpenGL Shading Language (GLSL)<br />
+GNU E<br />
+GNU Ubiquitous Intelligent Language for Extensions (GNU Guile)<br />
+Go<br />
+Go!<br />
+Game Oriented Assembly Lisp (GOAL)<br />
+Gödel<br />
+Golo<br />
+Good Old Mad (GOM)<br />
+Google Apps Script<br />
+Gosu<br />
+GOTRAN (IBM 1620)<br />
+General Purpose Simulation System (GPSS)<br />
+GraphTalk (Computer Sciences Corporation)<br />
+GRASS<br />
+Grasshopper<br />
+Groovy (by Apache)<br />
+Hack<br />
+HAGGIS<br />
+HAL/S<br />
+Halide (programming language)<br />
+Hamilton C shell<br />
+Harbour<br />
+Hartmann pipelines<br />
+Haskell<br />
+Haxe<br />
+Hermes<br />
+High Level Assembly (HLA)<br />
+High Level Shader Language (HLSL)<br />
+Hollywood<br />
+HolyC (TempleOS)<br />
+Hop<br />
+Hopscotch<br />
+Hope<br />
+Hume<br />
+HyperTalk<br />
+Hy<br />
+Io<br />
+Icon<br />
+IBM Basic assembly language<br />
+IBM HAScript<br />
+IBM Informix-4GL<br />
+IBM RPG<br />
 IDL
 Idris
 Inform
