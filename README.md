@@ -9,7 +9,7 @@
 <br />
 #
 <details>
-  <summary><h3>All coding languages I know:<h3></summary>
+  <summary><h3><h3></summary>
     A.NET (A#/A sharp) <br />
 A-0 System <br />
 A+ (A plus)<br />
