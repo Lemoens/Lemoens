@@ -6,8 +6,14 @@
  <br />
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
-![giphy](https://github.com/Lemoens/Lemoens/assets/159124482/ff2a1127-a3c5-4390-bc26-5fb91216f928)
-![giphy](https://github.com/Lemoens/Lemoens/assets/159124482/ff2a1127-a3c5-4390-bc26-5fb91216f928)
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="200">
+
 
 ![text](https://github.com/Lemoens/Lemoens/assets/159124482/73477bea-784f-43ac-be8a-11bf7bba2977)
 
