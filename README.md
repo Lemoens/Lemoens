@@ -23,6 +23,8 @@
     A.NET (A#/A sharp) <br />
 Python (almost 18 years of experience)<br />
 C# (C sharp) (15 years experience)<br />
+Lua (14.5 years of experience)<br />
+Rust (12 years)<br />
 CFEngine<br />
 Fantom<br />
 Vala<br />
@@ -369,7 +371,6 @@ LSL<br />
 PLEX<br />
 Transcript (LiveCode)<br />
 Datalog<br />
-Rust<br />
 BASIC<br />
 Prolog<br />
 LYaPAS<br />
@@ -413,7 +414,6 @@ Mary<br />
 CMS EXEC (EXEC)<br />
 CORAL, Coral 66<br />
 FP<br />
-Lua<br />
 SLIP<br />
 Kojo<br />
 PL/P<br />
