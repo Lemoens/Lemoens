@@ -3,7 +3,7 @@
 ![w0k02ubjriw61 (2)](https://github.com/Lemoens/Lemoens/assets/159124482/045a0dd2-137a-4e13-b1a4-1d0caa50a613)
 
 <p align="center">
-<span style="font-family: 'Lucida Console';">
+<span style="font-family: 'Libre Franklin';">
 Languages I program in (at least 2 years experience on each): <br />
  <br />
 A.NET (A#/A sharp) <br />
