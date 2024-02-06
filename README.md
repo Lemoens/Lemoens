@@ -1,3 +1,3 @@
-![GDDiiDeXUAAkHon](https://github.com/Lemoens/Lemoens/assets/159124482/c563d890-ee43-4fa7-9f5a-549d725a63ce)
-![dog-hell-nah](https://github.com/Lemoens/Lemoens/assets/159124482/fcb0b9d4-cab3-41e4-a982-35fcc5b1dfc9)
-![w0k02ubjriw61](https://github.com/Lemoens/Lemoens/assets/159124482/6211c09f-f126-4251-9bc2-20f983f774c9)
+![dog-hell-nah1-ezgif com-resize](https://github.com/Lemoens/Lemoens/assets/159124482/777d7a8e-036f-47bf-b9f8-c9b668e461e2)
+![GDDiiDeXUAAkHon (1)](https://github.com/Lemoens/Lemoens/assets/159124482/a3f5425f-4652-4822-bdab-f0139a9064fe)
+![w0k02ubjriw61 (1)](https://github.com/Lemoens/Lemoens/assets/159124482/350e45e0-7b33-424e-b4ee-6a5a7eba94b1)
