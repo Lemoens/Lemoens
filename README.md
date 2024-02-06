@@ -20,7 +20,7 @@
 ![text](https://github.com/Lemoens/Lemoens/assets/159124482/73477bea-784f-43ac-be8a-11bf7bba2977)
 <br />
  <h2><h2>
-    A.NET (A#/A sharp) <br />
+    <br />
 Python (almost 18 years of experience)<br />
 C# (C sharp) (15 years experience)<br />
 Lua (14.5 years of experience)<br />
