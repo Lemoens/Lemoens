@@ -5,7 +5,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="165"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="165"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="165"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="165"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2MTlyeml4dTcweGNvaG0yZXUxZGMzMGU5cnhjcmZ3anc2cmh2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/d8KM6yHp4un1YiJKu8/giphy.gif" alt="Image" width="165">
 ![text](https://github.com/Lemoens/Lemoens/assets/159124482/73477bea-784f-43ac-be8a-11bf7bba2977)
 <br />
-<img src="https://media0.giphy.com/media/g0NZo5jXrlTsRKD5B8/giphy.gif?cid=ecf05e47wft9r0lqqpbk0z4fc0ejzla25jioa9itcjcww235&ep=v1_gifs_related&rid=giphy.gif" alt="Image" width="50">
+<img src="https://media3.giphy.com/media/JpGT5gK9PUep3FpM2r/giphy.gif?cid=ecf05e47wft9r0lqqpbk0z4fc0ejzla25jioa9itcjcww235&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="Image" width="50">
 <br />
 A.NET (A#/A sharp) <br />
 A-0 System <br />
